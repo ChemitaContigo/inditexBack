@@ -36,7 +36,7 @@ Este proyecto utiliza Java junto con RestAssured, Jackson y  Karate para interac
 
 ## Ejecución del Proyecto
 
-1. Clona este repositorio: `git clone <URL_DEL_REPOSITORIO>`
+1. Clona este repositorio: `git clone <https://github.com/ChemitaContigo/inditexBack.git>`
 2. Abre el proyecto en tu IDE.
 3. Asegúrate de tener todas las dependencias y bibliotecas configuradas en tu entorno de desarrollo.
 4. Ejecuta las pruebas para probar las funcionalidades implementadas.
